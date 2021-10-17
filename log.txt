@@ -1,0 +1,41 @@
+2021-10-17 02:14:00: Inside start fishing 
+2021-10-17 02:14:00: Inside cast line 
+2021-10-17 02:14:03: Inside bobber before hook fish 
+2021-10-17 02:14:23: Inside hook fish, after click should be calling reel 
+2021-10-17 02:14:24: Inside reel, after mouse down 
+2021-10-17 02:14:25: Inside reel, after mouse down 
+2021-10-17 02:14:25: Inside reel, after mouse down 
+2021-10-17 02:14:26: Inside reel, after mouse down 
+2021-10-17 02:14:27: Inside reel, after mouse up 
+2021-10-17 02:14:27: Inside reel, after mouse up 
+2021-10-17 02:14:28: Inside reel, after mouse down 
+2021-10-17 02:14:28: Inside reel, after mouse down 
+2021-10-17 02:14:29: Inside reel, after mouse down 
+2021-10-17 02:14:30: Inside reel, after mouse up 
+2021-10-17 02:14:30: Inside reel, after mouse up 
+2021-10-17 02:14:31: Inside reel, after mouse down 
+2021-10-17 02:14:32: Inside reel, after mouse down 
+2021-10-17 02:14:33: Inside reel, after mouse up 
+2021-10-17 02:14:33: Inside reel, after mouse up 
+2021-10-17 02:14:34: Inside reel, after mouse up 
+2021-10-17 02:14:35: Inside reel, after mouse down 
+2021-10-17 02:14:35: Inside reel, after mouse down 
+2021-10-17 02:14:36: Inside reel, after mouse down 
+2021-10-17 02:14:37: Inside reel, after mouse down 
+2021-10-17 02:14:37: Inside reel, after mouse up 
+2021-10-17 02:14:38: Inside reel, after mouse up 
+2021-10-17 02:14:38: Inside reel, after mouse down 
+2021-10-17 02:14:39: Inside reel, after mouse down 
+2021-10-17 02:14:40: Inside reel, after mouse down 
+2021-10-17 02:14:41: Inside reel, after mouse up 
+2021-10-17 02:14:41: Inside reel, after mouse up 
+2021-10-17 02:14:42: Inside reel, after mouse up 
+2021-10-17 02:14:42: Inside reel, after mouse down 
+2021-10-17 02:14:43: Inside reel, after mouse down 
+2021-10-17 02:14:43: Inside reel, after mouse down 
+2021-10-17 02:14:45: Inside reel, after mouse down 
+2021-10-17 02:14:46: Inside reel, after mouse up 
+2021-10-17 02:14:46: Inside reel, after alt up and hook seen 
+2021-10-17 02:14:46: Finished Iteration : 0 
+2021-10-17 02:14:46: Inside start fishing 
+2021-10-17 02:14:46: Inside cast line 
